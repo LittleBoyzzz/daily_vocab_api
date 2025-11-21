@@ -19,6 +19,8 @@ CREATE TABLE IF NOT EXISTS practice_sessions (
 
 -- Example data
 INSERT INTO words (word, definition, difficulty_level) VALUES
+('banana', 'A long yellow fruit', 'Beginner'),
+('ocean', 'A large body of salt water', 'Beginner'),
 ('apple', 'A round fruit with red, green, or yellow skin', 'Beginner'),
 ('ambitious', 'Having a strong desire to succeed', 'Intermediate'),
 ('perseverance', 'Continued effort despite difficulties', 'Advanced'),
